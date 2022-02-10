@@ -8,6 +8,8 @@
 2. [Three distance-based segmentation losses](https://github.com/JunMa11/SegWithDistMap)
 3. [Boundary loss](https://github.com/LIVIAETS/boundary-loss)
 
+### Some papers
+
 | Date                                                                      | First Author  | Title                                                    | Architecture | Modality                                    | ND   | Loss                                             | Dataset                                                                                                              | Code                                                   | Paper                                                                                                              |
 | ------------------------------------------------------------------------- | ------------- | -------------------------------------------------------- | ------------ | ------------------------------------------- | ---- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | 10/08/2021                                                                | Jiacheng Wang | Boundary-aware Transformers for Skin Lesion Segmentation | Transformer  | Image                                       | 2D   | CE+Dice with boundary-wise prior knowledge       | ISIC 2016 + PH2, ISIC 2018                                                                                           | [PyTorch](https://github.com/jcwang123/BA-Transformer) | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2103.14030-b31b1b.svg)](https://arxiv.org/abs/2110.03864) |
@@ -21,6 +23,8 @@
 ### An survey paper, [Transformers in Medical Imaging: A Survey, Jan. 2022](https://arxiv.org/abs/2201.09873).
 ### Some useful github repos
 1. [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)
+
+### Some papers
 
 | Date         | First Author               | Title                                                                                                           | Modality                    | ND      | Loss                                                     | Dataset                                                           | Code                                                                                      | Paper                                                                                                              |
 | ------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------- | ------- | -------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
