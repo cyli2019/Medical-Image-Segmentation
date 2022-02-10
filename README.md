@@ -12,7 +12,11 @@
 | 06/01/2020                                                                | Jun Ma  | How Distance Transform Maps Boost Segmentation CNNs: An Empirical Study | CNN           | CT/MRI                                                    | 3D          | Dice+ B/HD/SDF | MICCAI 2017, 2018 | [PyTorch](https://github.com/LIVIAETS/surface-los) | MIDL 2020 [![arXiv](https://img.shields.io/badge/arXiv-2010.11929-b31b1b.svg)](http://proceedings.mlr.press/v121/ma20b/ma20b.pdf) |                                                        |                                                                                                                    |
 
 
-## Image Segmentation with Transformer
+## Medical Image Segmentation with Transformer
+### An survey paper, [Transformers in Medical Imaging: A Survey, Jan. 2022](https://arxiv.org/abs/2201.09873).
+### Some useful github repos
+1. https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging
+2. https://github.com/LIVIAETS/boundary-loss
 
 | Date         | First Author               | Title                                                                                                           | Modality                    | ND      | Loss                                                     | Dataset                                                           | Code                                                                                      | Paper                                                                                                              |
 | ------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------- | ------- | -------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
