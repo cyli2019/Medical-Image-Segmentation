@@ -23,7 +23,7 @@
 
 ## Medical Image Segmentation with Transformer
 ### An survey paper, [Transformers in Medical Imaging: A Survey, Jan. 2022](https://arxiv.org/abs/2201.09873).
-### Some useful github repos
+### Some useful github repositories
 1. [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)
 
 ### Some papers
