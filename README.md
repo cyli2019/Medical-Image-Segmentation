@@ -20,6 +20,9 @@
 | 06/01/2020 | Jun Ma        | How Distance Transform Maps Boost Segmentation CNNs: An Empirical Study                                           | CNN          | CT/MRI   | 3D    | Dice+ BD/HD/SDF                             | MICCAI 2017, 2018          | MIDL 2020 [![arXiv](https://img.shields.io/badge/arXiv-2010.11929-b31b1b.svg)](http://proceedings.mlr.press/v121/ma20b/ma20b.pdf) [PyTorch](https://github.com/JunMa11/SegWithDistMap) |
 | 02/08/2021 | Jieneng Chen  | TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation                                       | Transformer  | CT/MRI   | 2D    | CE+Dice                                     | MICCAI 2015, ACDC          | [![arXiv](https://img.shields.io/badge/arXiv-2010.11929-b31b1b.svg)](https://arxiv.org/abs/2102.04306)   [PyTorch](https://github.com/Beckschen/TransUNet)                             |
 
+| 02/08/2021 | Jieneng Chen  | TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation                                       | Transformer  | CT/MRI   | 2D    | CE+Dice                                     | MICCAI 2015, ACDC          | [![arXiv](https://img.shields.io/badge/arXiv-2010.11929-b31b1b.svg)](https://arxiv.org/abs/2102.04306)   [PyTorch](https://github.com/Beckschen/TransUNet)                             |
+
+
 
 
 ## Medical Image Segmentation with Transformer
